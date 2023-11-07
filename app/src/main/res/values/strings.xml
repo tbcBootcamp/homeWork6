@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">homeWork6</string>
+    <string name="update">Update</string>
+    <string name="remove">Remove</string>
+    <string name="add_user">Add User</string>
+    <string name="email">Email</string>
+    <string name="age">Age</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="not_exists">User does not exists\n</string>
+    <string name="updated_successfully">User updated successfully</string>
+    <string name="removed_successfully">User removed successfully\n</string>
+    <string name="already_exists">User with same email already exists</string>
+    <string name="add_successfully">User added successfully</string>
+    <string name="invalid_email_error">Please enter the valid email</string>
+    <string name="empty_fields_error">please fill the fields correctly\n</string>
+    <string name="active">active</string>
+    <string name="removed">removed</string>
+</resources>
